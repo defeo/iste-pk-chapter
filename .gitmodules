@@ -1,0 +1,6 @@
+[submodule "export"]
+	path = cryptobib
+	url = git://github.com/cryptobib/export.git
+[submodule "isogenies_bib"]
+	path = isogenies_bib
+	url = git://github.com/defeo/isogenies.bib.git
